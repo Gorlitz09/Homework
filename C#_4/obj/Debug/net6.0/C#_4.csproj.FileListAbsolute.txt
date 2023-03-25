@@ -1,0 +1,15 @@
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.csproj.AssemblyReference.cache
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.AssemblyInfoInputs.cache
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.AssemblyInfo.cs
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\bin\Debug\net6.0\C#_4.exe
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\bin\Debug\net6.0\C#_4.deps.json
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\bin\Debug\net6.0\C#_4.runtimeconfig.json
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\bin\Debug\net6.0\C#_4.dll
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\bin\Debug\net6.0\C#_4.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.dll
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\refint\C#_4.dll
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.pdb
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\C#_4.genruntimeconfig.cache
+C:\Users\Иван\OneDrive\Рабочий стол\C#\C#_4\obj\Debug\net6.0\ref\C#_4.dll
